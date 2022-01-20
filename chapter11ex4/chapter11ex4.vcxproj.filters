@@ -18,7 +18,7 @@
     <ClCompile Include="chapter11ex4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="internals.cpp">
+    <ClCompile Include="words-internals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="words.cpp">

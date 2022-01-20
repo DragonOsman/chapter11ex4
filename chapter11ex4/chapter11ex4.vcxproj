@@ -146,7 +146,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chapter11ex4.cpp" />
-    <ClCompile Include="internals.cpp" />
+    <ClCompile Include="words-internals.cpp" />
     <ClCompile Include="words.cpp" />
     <ClCompile Include="words.ixx" />
   </ItemGroup>
